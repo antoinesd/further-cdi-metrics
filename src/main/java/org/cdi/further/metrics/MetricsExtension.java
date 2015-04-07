@@ -8,5 +8,5 @@ import javax.enterprise.inject.spi.Extension;
  */
 public class MetricsExtension implements Extension {
 
-    
+
 }
